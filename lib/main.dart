@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
         '/PageOne'   :  (context) => PageOne(),
         '/PageTwo'   :  (context) => PageTwo(),
         '/PageThree' :  (context) => PageThree(),
-        '/HomePage'  :  (context) => HomePage(),
+        '/HomePage'  :  (context) => PageOne(),
         '/Chat'      :  (context) => ChatUserX(),
         '/Note'      :  (context) => Note()
       },
