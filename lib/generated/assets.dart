@@ -21,10 +21,6 @@ class Assets {
   static const String fontsVazirmatnExtraLight = 'assets/fonts/VazirmatnExtraLight.ttf';
   static const String fontsVazirmatnMedium = 'assets/fonts/VazirmatnMedium.ttf';
   static const String fontsVazirmatnRegular = 'assets/fonts/VazirmatnRegular.ttf';
-  static const String images0010 = 'assets/images/xpage.png';
-  static const String images0028 = 'assets/images/TwoPageWelcome.png';
-  static const String images0030 = 'assets/images/TreeWelcomePage.png';
-  static const String images0036 = 'assets/images/fto.png';
   static const String images1 = 'assets/images/1.png';
   static const String imagesAvatar = 'assets/images/Avatar.png';
   static const String imagesFace5 = 'assets/images/face5.png';
