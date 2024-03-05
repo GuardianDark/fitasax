@@ -35,14 +35,14 @@ class MyApp extends StatelessWidget {
         ),
       ),
       home: MyHomePage(),
-      initialRoute: '/Chat',
+      initialRoute: '/HomePage',
       routes: {
         '/welcome'   :  (context) => PageOne(),
         '/profile'   :  (context) => Profile(),
         '/PageOne'   :  (context) => PageOne(),
         '/PageTwo'   :  (context) => PageTwo(),
         '/PageThree' :  (context) => PageThree(),
-        '/HomePage'  :  (context) => HomePage(),
+        '/HomePage'  :  (context) => WelcomePage(),
         '/Chat'      :  (context) => ChatUserX(),
         '/Note'      :  (context) => Note()
       },
